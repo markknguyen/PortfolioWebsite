@@ -1,0 +1,48 @@
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 3.5rem !important;
+    font-weight: bolder !important;
+    text-align: center;
+    color: white;
+}
+
+.home h1 {
+    padding-top: 5vh !important;
+    padding-bottom: 0.5vh !important;
+}
+h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.75rem !important;
+    font-weight: normal !important;
+    text-align: center;
+    color: white;
+}
+
+.home h2 {
+    padding-top: 0.5vh !important;
+    padding-bottom: 2.5vh !important;
+}
+.resume-link {              /* Sets the text color to blue */
+    text-decoration: none;      /* Removes any default underline */
+    border: none;               /* Removes any border */
+    background-color: transparent;  /* Ensures the background is transparent */
+    cursor: pointer;            /* Changes cursor to pointer to indicate clickability */
+    display: inline-flex;       /* Uses flex to align the text and the chevron */
+    align-items: center;        /* Vertically centers the text and chevron */
+}
+
+.resume-link:hover {
+    text-decoration: underline; /* Adds an underline on hover */
+}
+
+.chevron-right {
+    border: solid #1F8AFF;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;               /* Adjust the padding to change the size */
+    transform: rotate(-45deg);
+    margin-left: 8px;           /* Adjust spacing between text and chevron */
+    vertical-align: middle;     /* Vertically aligns the chevron with the text */
+}

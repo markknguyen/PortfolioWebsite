@@ -1,0 +1,7 @@
+#nav-bar-collapse {
+    text-align: center;
+}
+.transparent-navbar {
+    backdrop-filter: blur(20px); /* Adjust the px value to control the blur intensity */
+    background-color: rgba(232, 232, 232, 0.73); /* You might still want a slight transparency to better visualize the blur effect */
+}

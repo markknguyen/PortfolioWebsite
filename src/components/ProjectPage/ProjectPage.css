@@ -1,0 +1,69 @@
+
+.project {
+    margin-top: 0;
+    margin: 0;
+    text-align: left;
+    background-color: #161618;
+}
+
+.card.bg-dark {
+    background-color: #000 !important;
+}
+
+.project-container {
+    margin-top: 100px !important;
+    margin: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* two equal columns */
+    gap: 1em; /* gap between grid items, this is both horizontal and vertical */
+    justify-items: center; /* centers the content inside the grid cells */
+}
+
+@media (max-width: 800px) {
+    .project {
+        padding: 0.5rem;
+    }
+    .project-container {
+        grid-template-columns: 1fr; /* single column for mobile */
+    }
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card-title {
+    font-weight: bold !important;
+    font-size:35px !important;
+    margin-top: 22px !important;
+}
+
+
+/* Set the text inside the card to white */
+.card-body,.card-text {
+    color: white !important;
+}
+
+.card-title {
+    color: mediumpurple;
+}
+ 
+.card-link {
+    text-decoration: none;
+    display: block; /* Makes the entire link block clickable */
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+.card-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: normal !important;
+}

@@ -1,0 +1,42 @@
+
+.tank {
+    margin: 0;
+    padding: 5rem;
+    text-align: left;
+    background-color: #161618;
+    color:white;
+}
+
+.tank-container {
+    margin: 0;
+    padding: 3rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.tank-container > * {
+    margin: 1em;
+    width: 50%;
+}
+
+/* Add this new style */
+.github-icon {
+    transform: scale(1);  /* You can adjust the scaling factor (0.7) as needed */
+    display: block;  /* To ensure the icon takes the scaling correctly */
+    margin: auto;  /* Center the scaled-down icon in the button */
+}
+
+@media (max-width: 800px) {
+    .tank {
+        padding: 1rem;
+    }
+    .tank-container {
+        padding: 1rem 0rem;
+        flex-direction: column;
+    }
+    .tank-container > * {
+        margin: 1em 0em;
+        width: 100%;
+    }
+}

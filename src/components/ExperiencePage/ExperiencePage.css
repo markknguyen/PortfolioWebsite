@@ -1,0 +1,74 @@
+.h1 {
+  text-align: left !important;
+}
+
+.experience {
+  margin: 0;
+  padding: 5rem;
+  text-align: left;
+  background-color: #161618!important; /* Corrected this line */
+  color: white !important;
+}
+
+.experience h2 {
+    font-weight:600 !important;
+    text-align: left;
+}
+
+.experience-container {
+    margin: 0;
+    padding: 5rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.experience-container > * {
+    margin: 1em;
+  }
+
+  .experience p {
+    font-weight: 700;
+    font-size: small;
+}
+
+.experience p2 {
+    font-weight: 700;
+    color: grey;
+}
+
+.experience-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.experience-content {
+  background-color: black;
+  border-radius: 25px;  /* curved edges */
+  padding: 20px;  /* some padding to keep content away from the edges */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;  /* align items vertically in the center */
+}
+
+.info {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.experience-image {
+  max-width: 75px;
+  max-height: 75px;
+  height: auto;
+  margin-right: 20px;  /* spacing between image and text */
+}
+
+  .gradient-text4 {
+    background: linear-gradient(to left, purple, mediumpurple);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
