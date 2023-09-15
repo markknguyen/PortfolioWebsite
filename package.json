@@ -4,9 +4,10 @@
 
   "version": "0.1.0",
 
-  "homepage": "https://markknguyen.github.io/PortfolioWebsite",
+  "homepage": "/PortfolioWebsite/",
 
   "private": true,
+
 
   "dependencies": {
 
