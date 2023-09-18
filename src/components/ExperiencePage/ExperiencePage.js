@@ -53,9 +53,9 @@ export default function ExperiencePage() {
                   <h2>Event Coordinator</h2>
                   <p2>IIT Association for Computing Machinery (ACM) - Chicago, IL</p2>
                   <ul>
-                    <li>Developed and submitted an innovative 8-page space technology proposal and a New Technology Report (NTR)</li>
-                    <li>Created and managed KPP, Gantt charts, Risk Matrix, and Quad Charts for project tracking and risk assessment</li>
-                    <li>Engaged with Subject Matter Experts (SMEs) including NASA HRP Chief Scientist, Professors, and Engineer</li>
+                    <li>Coordinated the largest computing club in the university by engaging in diverse students’ personal projects</li>
+                    <li>Led and created a weekly Python Crash Course for 50+ local students from the South Side Chicago neighborhoods</li>
+                    <li>Organized my university’s annual MLH sponsored Hackathons via Slack, Discord, Notion, Microsoft 365, and Jira</li>
                   </ul>
                 </div>
               </div>
