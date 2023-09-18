@@ -1,7 +1,29 @@
-#nav-bar-collapse {
-    text-align: center;
+body {
+    background-color: black !important; /* This sets the body's background to black */
 }
+
 .transparent-navbar {
-    backdrop-filter: blur(20px); /* Adjust the px value to control the blur intensity */
-    background-color: rgba(232, 232, 232, 0.73); /* You might still want a slight transparency to better visualize the blur effect */
+    backdrop-filter: blur(20px);
+    background-color: rgba(0, 0, 0, 0.471);
+    padding: 0 10px !important; /* Some padding on the sides to avoid sticking to the edges */
+}
+
+.transparent-navbar .navbar-brand img {
+    height: 50px;
+    width: auto;
+}
+
+
+@media (min-width: 992px) { /* This breakpoint might be different based on your setup */
+    .transparent-navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    #nav-bar-collapse {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
 }
