@@ -6,11 +6,11 @@ export default function NavBar() {
     <>
     <Navbar className="transparent-navbar" variant="light" collapseOnSelect expand="lg" sticky="top">
         <Container>
-          <Navbar.Brand href="/">Mark Nguyen</Navbar.Brand>
+          <Navbar.Brand href="/PortfolioWebsite">Mark Nguyen</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="nav-bar-collapse">
             <Nav className="me-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
+              <Nav.Link href="/PortfolioWebsite">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#experience">Experience</Nav.Link>
               <Nav.Link href="#project">Projects</Nav.Link>
