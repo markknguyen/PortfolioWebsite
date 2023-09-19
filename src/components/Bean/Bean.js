@@ -25,7 +25,7 @@ export default function Bean() {
 <FontAwesomeIcon className="github-icon" icon={faGithub} />
 </Button>
                     </div>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nPWsnvU-9Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=FT_2f0RwoIQ&t=73s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
         </>

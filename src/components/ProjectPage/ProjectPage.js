@@ -2,9 +2,9 @@ import { useNavigate } from "react-router-dom";
 import Card from 'react-bootstrap/Card';
 import "./ProjectPage.css"
 import image15 from '../../assets/robot.png'
-import image2 from '../../assets/street-explorer.png'
+import image2 from '../../assets/untitled.png'
 import image3 from '../../assets/sweetdeals.png'
-import image4 from '../../assets/street-explorer.png'
+import image4 from '../../assets/untitled.png'
 import { FaChevronRight } from 'react-icons/fa';
 
 
@@ -15,8 +15,8 @@ export default function ProjectPage() {
         navigate("/tank");
     }
 
-    const NavigateToCwf = () => {
-        navigate("/cwf");
+    const NavigateToMEAN = () => {
+        navigate("/mean");
     }
 
     const NavigateToSweet = () => {
@@ -32,7 +32,7 @@ export default function ProjectPage() {
             <div id="project" className="project">
                 <h1>Projects.</h1>
                 <div className="project-container">
-{/*
+
                     <Card bg="dark">
                         <Card.Body>
                             <Card.Title>ASCII Bean</Card.Title>
@@ -41,31 +41,31 @@ export default function ProjectPage() {
                             </Card.Text>
                             <Card.Link variant="primary" onClick={NavigateToBean}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
-                        <Card.Img variant="top" src={image4} alt="Bean" />
+                        <Card.Img variant="top" src={image4} alt="ASCII Bean" />
                     </Card>
-    */}
+   
                     <Card bg="dark">
                         <Card.Body>
                             <Card.Title>SweetDeals</Card.Title>
                             <Card.Text>
                             A simple marketplace for trading Halloween candy built on Flutter and Firebase.
                             </Card.Text>
-                            <Card.Link variant="primary" onClick={NavigateToTank}>Learn more <FaChevronRight /></Card.Link>
+                            <Card.Link variant="primary" onClick={NavigateToSweet}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
-                        <Card.Img variant="top" src={image3} alt="Sweet" />
+                        <Card.Img variant="top" src={image3} alt="SweetDeals" />
                     </Card>
-             {/*       
+                
                     <Card bg="dark">
                         <Card.Body>
-                            <Card.Title>Challenge with Friends</Card.Title>
+                            <Card.Title>Web Application</Card.Title>
                             <Card.Text>
-                            A mobile app in which players compete in completing the maximum number of challenges.
+                            Something to do with MEAN stack.
                             </Card.Text>
-                            <Card.Link variant="primary" onClick={NavigateToCwf}>Learn more <FaChevronRight /></Card.Link>
+                            <Card.Link variant="primary" onClick={NavigateToMEAN}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
-                        <Card.Img variant="top" src={image2} alt="Challenge with Friends" />
+                        <Card.Img variant="top" src={image2} alt="MEAN" />
                     </Card>
-    */}
+
                     <Card bg="dark">
                         <Card.Body>
                             <Card.Title>Tank Battle Royale</Card.Title>
@@ -73,7 +73,7 @@ export default function ProjectPage() {
                             Where Python meets passion in a battle royale arena, crafting tanks and forging champions.                        </Card.Text>
                             <Card.Link variant="primary" onClick={NavigateToTank}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
-                        <Card.Img variant="top" src={image15} alt="Aliens Hate Avocados" />
+                        <Card.Img variant="top" src={image15} alt="Tank Battle Royale" />
                     </Card>
                 </div>
             </div>

@@ -3,7 +3,6 @@ import Image from "react-bootstrap/Image";
 import "bootstrap/dist/css/bootstrap.css";
 import "./AboutPage.css";
 import Headshot from "../../assets/MemojiHeadshot.png";
-import TechStackImage from "../../assets/versespi.jpeg";
 import BackgroundVideo from "../../assets/loopchicago.mp4";
 
 export default function AboutPage() {

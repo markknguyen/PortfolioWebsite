@@ -48,7 +48,7 @@
     font-weight: bold !important;
     font-size: 35px !important;
     margin-top: 22px !important;
-    color: mediumpurple;
+    color: white;
 }
 
 .card-body, .card-text {
@@ -71,4 +71,6 @@
     justify-content: center; /* centers content horizontally when used with flex */
     align-items: center; /* centers content vertically when used with flex */
     font-weight: normal !important;
+    padding-left: 50px;  /* Added this line to create some spacing inside */
+    padding-right: 50px;
 }

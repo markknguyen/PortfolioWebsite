@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<HomePage/>} />
         <Route exact path="/tank" element={<Tank/>} />
-        <Route exact path="/nuprojects" element={<Sweet/>} />
+        <Route exact path="/sweet" element={<Sweet/>} />
         <Route exact path="/bean" element={<Bean/>} />
       </Routes>
     </div>

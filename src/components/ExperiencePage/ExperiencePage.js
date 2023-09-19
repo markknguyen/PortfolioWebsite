@@ -49,7 +49,7 @@ export default function ExperiencePage() {
               <div className="experience-content">
               <img src={image22} alt="Description" className="experience-image"/>
                 <div className="info">
-                  <p>Leadership | Sep 2022 - Present</p>
+                  <p>Leadership | Aug 2022 - Present</p>
                   <h2>Event Coordinator</h2>
                   <p2>IIT Association for Computing Machinery (ACM) - Chicago, IL</p2>
                   <ul>
