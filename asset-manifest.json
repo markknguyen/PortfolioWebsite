@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.607064de.css",
-    "main.js": "/PortfolioWebsite/static/js/main.a7a3eae7.js",
+    "main.css": "/PortfolioWebsite/static/css/main.9885996d.css",
+    "main.js": "/PortfolioWebsite/static/js/main.d6a6d022.js",
     "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
     "static/media/loopchicago.mp4": "/PortfolioWebsite/static/media/loopchicago.e2e42d0d4d361b04bd99.mp4",
     "static/media/snake.png": "/PortfolioWebsite/static/media/snake.194dcadaa5931c754fe2.png",
@@ -9,19 +9,17 @@
     "static/media/newacm.png": "/PortfolioWebsite/static/media/newacm.b1be99bc4a38cfd3211e.png",
     "static/media/MemojiHeadshot.png": "/PortfolioWebsite/static/media/MemojiHeadshot.bc63c53cb481f8cd99ab.png",
     "static/media/sweetdeals.png": "/PortfolioWebsite/static/media/sweetdeals.57c2a198d8083c88affe.png",
-    "static/media/versespi.jpeg": "/PortfolioWebsite/static/media/versespi.ef5f3066e2e58413637a.jpeg",
     "static/media/logo.png": "/PortfolioWebsite/static/media/logo.522dff73e716509c0af7.png",
     "static/media/nasalogo.png": "/PortfolioWebsite/static/media/nasalogo.47197ce1311697bac9a8.png",
     "static/media/Mark Nguyen Resume 2023-4.pdf": "/PortfolioWebsite/static/media/Mark Nguyen Resume 2023-4.8dbe03f2de032552e7c4.pdf",
-    "static/media/street-explorer.png": "/PortfolioWebsite/static/media/street-explorer.cd5d9966f10cfbdacaa3.png",
     "static/media/robot.png": "/PortfolioWebsite/static/media/robot.40b1c03d3fc82c9645e8.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.607064de.css.map": "/PortfolioWebsite/static/css/main.607064de.css.map",
-    "main.a7a3eae7.js.map": "/PortfolioWebsite/static/js/main.a7a3eae7.js.map",
+    "main.9885996d.css.map": "/PortfolioWebsite/static/css/main.9885996d.css.map",
+    "main.d6a6d022.js.map": "/PortfolioWebsite/static/js/main.d6a6d022.js.map",
     "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.607064de.css",
-    "static/js/main.a7a3eae7.js"
+    "static/css/main.9885996d.css",
+    "static/js/main.d6a6d022.js"
   ]
 }
