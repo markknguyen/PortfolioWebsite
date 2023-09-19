@@ -73,10 +73,29 @@ html, body {
 }
 
 .framework-box {
-    background-color: black;
+    position: relative;
+    overflow: hidden;
+    height: 400px; 
     padding: 2rem;
     flex: 2;
 }
+
+.framework-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    z-index: 0; /* To keep the video in the background */
+    object-fit: cover !important;
+}
+
+.framework-content {
+    position: relative; /* Needed for z-index to take effect */
+    z-index: 2; /* Set this higher than the video's z-index */
+}
+
 .long-box, .short-box, .languages-box, .framework-box {
     border-radius: 25px;  /* This gives a large roundness. Adjust as needed. */
 }
@@ -86,25 +105,29 @@ h4 {
     font-size:35px !important;
 }
 
+h4, p {
+    z-index: 1;
+}
+
 p{
     font-weight: bold !important;
 }
 .gradient-text {
-    background: linear-gradient(to right, mediumpurple,mediumpurple);
+    background: linear-gradient(to right, red, mediumpurple);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
 
 .gradient-text2 {
-    background: linear-gradient(to right, mediumpurple, silver);
+    background: linear-gradient(to right, white, white);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
 
 .gradient-text3 {
-    background: linear-gradient(to left, silver,mediumpurple);
+    background: linear-gradient(to left, white, white);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;

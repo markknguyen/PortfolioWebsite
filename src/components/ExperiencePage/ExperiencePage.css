@@ -67,8 +67,26 @@
 }
 
   .gradient-text4 {
-    background: linear-gradient(to left, purple, mediumpurple);
+    background: linear-gradient(to left, red, mediumpurple);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+}
+
+@media (max-width: 768px) {
+  .experience-content {
+      flex-direction: column;
+      align-items: flex-start;  /* align items to the start (left for LTR languages) */
+      text-align: center;  /* center the content */
+  }
+
+  .experience-image {
+      margin: 0 auto 20px auto; /* top and bottom margin 20px, and auto left and right for centering */
+      display: block;  /* make the image a block element to allow for centering using margin auto */
+  }
+
+  .info {
+      margin-left: 0;
+      text-align: left;
+  }
 }

@@ -17,13 +17,13 @@ export default function ExperiencePage() {
                 <div className="experience-content">
                   <img src={image20} alt="Description" className="experience-image"/>
                   <div className="info">
-                    <p>Leadership | Sep 2022 - Present</p>
-                    <h2>Event Coordinator</h2>
-                    <p2>IIT Association for Computing Machinery (ACM) - Chicago, IL</p2>
+                    <p>Internship | May 2023 - Aug 2023</p>
+                    <h2>Software Engineer</h2>
+                    <p2>Argonne National Laboratory - Lemont, IL</p2>
                     <ul>
-                      <li>Developed and submitted an innovative 8-page space technology proposal and a New Technology Report (NTR)</li>
-                      <li>Created and managed KPP, Gantt charts, Risk Matrix, and Quad Charts for project tracking and risk assessment</li>
-                      <li>Engaged with Subject Matter Experts (SMEs) including NASA HRP Chief Scientist, Professors, and Engineer</li>
+                      <li>Enhanced back-end algorithms for streamflow forecasting for the US Department of Energy EVS Division</li>
+                      <li>Hyperparameter-tuned LSTM Neural Network models by currently 163% through cross-validation and grid search</li>
+                      <li>Utilized PyTorch and TensorFlow for deep learning, analyzing big, hourly geospatial and historical streamflow data</li>
                     </ul>
                   </div>
                 </div>

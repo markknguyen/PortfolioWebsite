@@ -10,3 +10,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (max-width: 576px) { 
+    /* for mobile devices */
+    h1, h2, h3, h4, h5, h6 {
+        font-size: 80%;  /* adjust as needed */
+        font-weight: normal; /* or any desired weight */
+    }
+}

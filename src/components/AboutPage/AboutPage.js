@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./AboutPage.css";
 import Headshot from "../../assets/MemojiHeadshot.png";
 import TechStackImage from "../../assets/versespi.jpeg";
+import BackgroundVideo from "../../assets/loopchicago.mp4";
 
 export default function AboutPage() {
     return (
@@ -21,7 +22,7 @@ export default function AboutPage() {
                         />
                     </div>
                     <div className="short-box">
-                        <h4>Hello, my name is Mark Nguyen. I am a sophomore at <span className="gradient-text">Illinois Institute of Technology</span> studying Computer Science.</h4>
+                        <h4>Hey I'm Mark! I am an aspiring <span className="gradient-text">Software Engineer</span> and a sophomore at Illinois Institute of Technology.</h4>
                     </div>
                 </div>
 
@@ -32,13 +33,13 @@ export default function AboutPage() {
                         <p>Python, Java, JavaScript, OCaml, Matlab, HTML, C, CSS, Dart, Kotlin</p>
                     </div>
                     <div className="framework-box">
+                    <video autoPlay loop muted playsInline className="framework-video">
+    <source src={BackgroundVideo} type="video/mp4" />
+    Your browser does not support the video tag.
+</video> <div class="framework-content">
                         <h4 className="text-center"> <span className="gradient-text3">Frameworks & Technologies</span></h4>
                         <p>Frameworks: Express.js, AngularJS, Node.js, React.js, Bootstrap, Flask, MongoDB, Amazon Web Services (AWS), Firebase, Heroku, Docker, Git, Github</p>
-                        <Image
-                            src={TechStackImage}
-                            alt="Tech Stack"
-                            className="tech-stack-image"
-                        />
+                    </div>
                     </div>
                 </div>
             </div>
