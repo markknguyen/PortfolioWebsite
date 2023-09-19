@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;  /* Ensure no horizontal scrolling */
+}
+
 .h1 {
   text-align: left !important;
 }
@@ -6,12 +10,12 @@
   margin: 0;
   padding: 5rem;
   text-align: left;
-  background-color: #161618!important; /* Corrected this line */
+  background-color: #161618 !important;
   color: white !important;
 }
 
 .experience h2 {
-    font-weight:600 !important;
+    font-weight: 600 !important;
     text-align: left;
 }
 
@@ -26,9 +30,9 @@
 
 .experience-container > * {
     margin: 1em;
-  }
+}
 
-  .experience p {
+.experience p {
     font-weight: 700;
     font-size: small;
 }
@@ -66,7 +70,7 @@
   margin-right: 20px;  /* spacing between image and text */
 }
 
-  .gradient-text4 {
+.gradient-text4 {
     background: linear-gradient(to left, red, mediumpurple);
     -webkit-background-clip: text;
     background-clip: text;
@@ -74,6 +78,14 @@
 }
 
 @media (max-width: 768px) {
+  .experience, .experience-container {
+    padding: .5rem;  /* Reduced padding for smaller screens */
+  }
+
+  .experience-container > * {
+    margin: 0.5em;  /* Reduced margin for smaller screens */
+  }
+
   .experience-content {
       flex-direction: column;
       align-items: flex-start;  /* align items to the start (left for LTR languages) */

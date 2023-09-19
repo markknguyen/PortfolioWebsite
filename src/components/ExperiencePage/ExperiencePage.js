@@ -10,7 +10,7 @@ export default function ExperiencePage() {
     return (
         <>
              <div id="experience" className="experience">
-            <h1><span className="gradient-text4">Experiences.</span> </h1>
+            <h1>Experiences.</h1>
             <div className="experience-container">
 
             <div className="experience-item">

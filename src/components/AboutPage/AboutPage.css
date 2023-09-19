@@ -12,10 +12,8 @@ html, body {
     background-color: #161618;
 }
 
-
-
 .about-container {
-    margin-top: 4rem; /* or adjust as needed */
+    margin-top: 4rem;
     display: flex;
     justify-content: space-between;
     align-items: flex-start; 
@@ -25,15 +23,15 @@ html, body {
 
 @media (max-width: 800px) {
     .about-container {
-        flex-direction: column; /* This will stack your containers vertically on smaller screens */
+        flex-direction: column;
     }
 
     .container2-1, .container2-2 {
-        width: 100%; /* Ensures containers take up full width on smaller screens */
+        width: 100%;
     }
 
     .about {
-        padding: 4rem 2rem 8rem 2rem; /* Reduced left and right padding for smaller screens */
+        padding: 4rem 1.5rem 8rem 1.5rem;  /* Modified padding for smaller screens */
     }
 }
 
@@ -53,19 +51,19 @@ html, body {
 .long-box {
     background-color: black;
     padding: 2rem;
-    flex: 2;  /* Longer box */
+    flex: 2;
 }
 
 .short-box {
     background-color: black;
     padding: 2rem;
-    flex: 1;  /* Shorter box */
+    flex: 1;
 }
 
 .languages-box {
     background-color: black;
-    padding: 3rem 2rem;  /* Adjusted padding */
-    min-height: 300px;   /* Added min-height */
+    padding: 3rem 2rem;
+    min-height: 300px;
     flex: 1.5;
     background-image: url('../../assets/snake.png');
     background-size: cover;
@@ -86,32 +84,32 @@ html, body {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover; 
-    z-index: 0; /* To keep the video in the background */
-    object-fit: cover !important;
+    object-fit: cover;
+    z-index: 0;
 }
 
 .framework-content {
-    position: relative; /* Needed for z-index to take effect */
-    z-index: 2; /* Set this higher than the video's z-index */
+    position: relative;
+    z-index: 2;
 }
 
 .long-box, .short-box, .languages-box, .framework-box {
-    border-radius: 25px;  /* This gives a large roundness. Adjust as needed. */
+    border-radius: 25px;
 }
 
 h4 {
     font-weight: bold !important;
-    font-size:35px !important;
+    font-size: 35px !important;
 }
 
 h4, p {
     z-index: 1;
 }
 
-p{
+p {
     font-weight: bold !important;
 }
+
 .gradient-text {
     background: linear-gradient(to right, red, mediumpurple);
     -webkit-background-clip: text;
@@ -119,22 +117,14 @@ p{
     color: transparent;
 }
 
-.gradient-text2 {
+.gradient-text2, .gradient-text3 {
     background: linear-gradient(to right, white, white);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
 
-.gradient-text3 {
-    background: linear-gradient(to left, white, white);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-}
-
 .tech-stack-image {
-    max-width: 100%; /* Ensures the image scales nicely within the container */
-    margin-top: 20px; /* Adds some space above the image */
-    
+    max-width: 100%;
+    margin-top: 20px;
 }

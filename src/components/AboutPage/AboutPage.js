@@ -38,7 +38,7 @@ export default function AboutPage() {
     Your browser does not support the video tag.
 </video> <div class="framework-content">
                         <h4 className="text-center"> <span className="gradient-text3">Frameworks & Technologies</span></h4>
-                        <p>Frameworks: Express.js, AngularJS, Node.js, React.js, Bootstrap, Flask, MongoDB, Amazon Web Services (AWS), Firebase, Heroku, Docker, Git, Github</p>
+                        <p>Express.js, AngularJS, Node.js, React.js, Bootstrap, Flask, MongoDB, Amazon Web Services (AWS), Firebase, Heroku, Docker, Git, Github</p>
                     </div>
                     </div>
                 </div>
