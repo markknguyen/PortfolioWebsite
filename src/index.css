@@ -15,6 +15,6 @@ code {
     /* for mobile devices */
     h1, h2, h3, h4, h5, h6 {
         font-size: 80%;  /* adjust as needed */
-        font-weight: normal; /* or any desired weight */
+        font-weight: 700; /* Bold weight for headers */
     }
 }
