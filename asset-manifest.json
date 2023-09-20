@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.0cb521f1.css",
+    "main.css": "/PortfolioWebsite/static/css/main.a84e9309.css",
     "main.js": "/PortfolioWebsite/static/js/main.d6a6d022.js",
     "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
     "static/media/loopchicago.mp4": "/PortfolioWebsite/static/media/loopchicago.e2e42d0d4d361b04bd99.mp4",
@@ -14,12 +14,12 @@
     "static/media/Mark Nguyen Resume 2023-4.pdf": "/PortfolioWebsite/static/media/Mark Nguyen Resume 2023-4.8dbe03f2de032552e7c4.pdf",
     "static/media/robot.png": "/PortfolioWebsite/static/media/robot.40b1c03d3fc82c9645e8.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.0cb521f1.css.map": "/PortfolioWebsite/static/css/main.0cb521f1.css.map",
+    "main.a84e9309.css.map": "/PortfolioWebsite/static/css/main.a84e9309.css.map",
     "main.d6a6d022.js.map": "/PortfolioWebsite/static/js/main.d6a6d022.js.map",
     "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb521f1.css",
+    "static/css/main.a84e9309.css",
     "static/js/main.d6a6d022.js"
   ]
 }
