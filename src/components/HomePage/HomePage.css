@@ -5,6 +5,17 @@ h1 {
     font-weight: 700 !important; /* Bold */
     text-align: center;
     color: white;
+    margin-bottom: 10px; /* Adjust as needed */
+}
+
+.home {
+    background-size: cover;
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 79vh;
+    width: auto;
+    overflow-y: auto;
 }
 
 .home h1 {
@@ -19,6 +30,7 @@ h2 {
     font-weight: 400 !important; /* Normal */
     text-align: center;
     color: white;
+    margin-top: 10px; /* Adjust as needed */
 }
 
 .home h2 {
@@ -33,6 +45,7 @@ h2 {
     cursor: pointer;
     display: inline-flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .resume-link:hover {
@@ -47,4 +60,18 @@ h2 {
     transform: rotate(-45deg);
     margin-left: 8px;
     vertical-align: middle;
+}
+
+#d {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    line-height: 1em; 
+    text-align: center;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 500px; /* Minimum height it should retain */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }

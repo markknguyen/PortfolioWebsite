@@ -4,7 +4,7 @@ import "./ProjectPage.css"
 import image15 from '../../assets/robot.png'
 import image2 from '../../assets/untitled.png'
 import image3 from '../../assets/sweetdeals.png'
-import image4 from '../../assets/untitled.png'
+import image4 from '../../assets/asciibean.png'
 import { FaChevronRight } from 'react-icons/fa';
 
 
@@ -70,7 +70,7 @@ export default function ProjectPage() {
                         <Card.Body>
                             <Card.Title>Tank Battle Royale</Card.Title>
                             <Card.Text>
-                            Where Python meets passion in a battle royale arena, crafting tanks and forging champions.                        </Card.Text>
+                            Where tanks meets passion in a battle royale arena, built for 50+ university students to learn Python and strategy.                        </Card.Text>
                             <Card.Link variant="primary" onClick={NavigateToTank}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
                         <Card.Img variant="top" src={image15} alt="Tank Battle Royale" />
