@@ -1,7 +1,0 @@
-const BeanAnimation = () => {
-    return (
-        <div style={{ backgroundColor: 'red', height: '50vh', width: '100%' }}>
-            This is a test for the Bean Animation component.
-        </div>
-    );
-};
