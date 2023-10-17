@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebsite/static/css/main.e2388cad.css",
-    "main.js": "/PortfolioWebsite/static/js/main.82e6403a.js",
+    "main.js": "/PortfolioWebsite/static/js/main.2517e9c7.js",
     "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
     "static/media/loopchicago.mp4": "/PortfolioWebsite/static/media/loopchicago.e2e42d0d4d361b04bd99.mp4",
     "static/media/snake.png": "/PortfolioWebsite/static/media/snake.194dcadaa5931c754fe2.png",
@@ -12,15 +12,15 @@
     "static/media/asciibean.png": "/PortfolioWebsite/static/media/asciibean.5340054b68dfe669d920.png",
     "static/media/logo.png": "/PortfolioWebsite/static/media/logo.522dff73e716509c0af7.png",
     "static/media/nasalogo.png": "/PortfolioWebsite/static/media/nasalogo.47197ce1311697bac9a8.png",
-    "static/media/Mark Nguyen Resume 2023-4.pdf": "/PortfolioWebsite/static/media/Mark Nguyen Resume 2023-4.8dbe03f2de032552e7c4.pdf",
+    "static/media/SHPE Mark Nguyen Resume 2023 .pdf": "/PortfolioWebsite/static/media/SHPE Mark Nguyen Resume 2023 .1d4a95b83baa5f7a2990.pdf",
     "static/media/robot.png": "/PortfolioWebsite/static/media/robot.40b1c03d3fc82c9645e8.png",
     "index.html": "/PortfolioWebsite/index.html",
     "main.e2388cad.css.map": "/PortfolioWebsite/static/css/main.e2388cad.css.map",
-    "main.82e6403a.js.map": "/PortfolioWebsite/static/js/main.82e6403a.js.map",
+    "main.2517e9c7.js.map": "/PortfolioWebsite/static/js/main.2517e9c7.js.map",
     "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2388cad.css",
-    "static/js/main.82e6403a.js"
+    "static/js/main.2517e9c7.js"
   ]
 }
