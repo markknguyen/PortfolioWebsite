@@ -18,10 +18,10 @@ export default function ExperiencePage() {
                   <img src={image20} alt="Description" className="experience-image"/>
                   <div className="info">
                     <p>Internship | May 2023 - Aug 2023</p>
-                    <h2>Software Engineer</h2>
+                    <h2>Machine Learning Research Intern</h2>
                     <p2>Argonne National Laboratory - Lemont, IL</p2>
                     <ul>
-                      <li>Enhanced back-end algorithms for streamflow forecasting for the US Department of Energy EVS Division</li>
+                      <li>Conducted Machine Learning/AI research on streamflow forecasting for US Department of Energy EVS Division</li>
                       <li>Hyperparameter-tuned LSTM Neural Network models by currently 163% through cross-validation and grid search</li>
                       <li>Utilized PyTorch and TensorFlow for deep learning, analyzing big, hourly geospatial and historical streamflow data</li>
                     </ul>
@@ -50,7 +50,7 @@ export default function ExperiencePage() {
               <img src={image22} alt="Description" className="experience-image"/>
                 <div className="info">
                   <p>Leadership | Aug 2022 - Present</p>
-                  <h2>Event Coordinator</h2>
+                  <h2>Vice President</h2>
                   <p2>IIT Association for Computing Machinery (ACM) - Chicago, IL</p2>
                   <ul>
                     <li>Coordinated the largest computing club in the university by engaging in diverse students’ personal projects</li>

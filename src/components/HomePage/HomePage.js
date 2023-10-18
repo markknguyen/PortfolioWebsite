@@ -1,6 +1,6 @@
 import React, { useEffect, useCallback, useRef } from "react";
 import "./HomePage.css";
-import Resume from "../../assets/Mark Nguyen Resume 2023-4.pdf";
+import Resume from "../../assets/SHPE Mark Nguyen Resume 2023 .pdf";
 import AboutPage from "../AboutPage/AboutPage";
 import ExperiencePage from '../ExperiencePage/ExperiencePage';
 import ProjectPage from '../ProjectPage/ProjectPage';

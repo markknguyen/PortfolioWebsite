@@ -19,7 +19,7 @@ h1 {
 }
 
 .home h1 {
-    padding-top: 5vh !important;
+    padding-top: 2vh !important;
     padding-bottom: 0.5vh !important;
 }
 
@@ -45,7 +45,7 @@ h2 {
     cursor: pointer;
     display: inline-flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .resume-link:hover {
@@ -74,4 +74,10 @@ h2 {
     align-items: center; /* Center vertically */
     min-height: 500px; /* Minimum height it should retain */
     overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+@media (max-width: 768px) {
+    #d {
+        font-size: 14px; /* Adjust the font size for mobile devices as needed */
+    }
 }

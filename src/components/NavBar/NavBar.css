@@ -27,3 +27,12 @@ body {
         align-items: center;
     }
 }
+
+[id]:before {
+    content: "";
+    display: block;
+    height: 80px;  /* This is just a placeholder. Adjust to your actual navbar height. */
+    margin-top: -80px;  /* Negative of the above value */
+    visibility: hidden;
+    pointer-events: none;
+  }

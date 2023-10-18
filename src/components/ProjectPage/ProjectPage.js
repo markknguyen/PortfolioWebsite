@@ -48,7 +48,7 @@ export default function ProjectPage() {
                         <Card.Body>
                             <Card.Title>SweetDeals</Card.Title>
                             <Card.Text>
-                            A simple marketplace for trading Halloween candy built on Flutter and Firebase.
+                            A simple marketplace for trading Halloween candy built on Flutter and Dart.
                             </Card.Text>
                             <Card.Link variant="primary" onClick={NavigateToSweet}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>
@@ -57,9 +57,9 @@ export default function ProjectPage() {
                 
                     <Card bg="dark">
                         <Card.Body>
-                            <Card.Title>Web Application</Card.Title>
+                            <Card.Title>Untitled AI project</Card.Title>
                             <Card.Text>
-                            Something to do with MEAN stack.
+                            Coming soon and realeasing soon...
                             </Card.Text>
                             <Card.Link variant="primary" onClick={NavigateToMEAN}>Learn more <FaChevronRight /></Card.Link>
                         </Card.Body>

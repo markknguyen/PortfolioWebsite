@@ -5,6 +5,7 @@ import HomePage from "./components/HomePage/HomePage";
 import Tank from "./components/Tank/Tank";
 import Sweet from "./components/Sweet/Sweet";
 import Bean from "./components/Bean/Bean";
+import Mean from "./components/Mean/Mean"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route exact path="/tank" element={<Tank/>} />
         <Route exact path="/sweet" element={<Sweet/>} />
         <Route exact path="/bean" element={<Bean/>} />
+        <Route exact path="/mean" element={<Mean/>} />
       </Routes>
     </div>
   );
