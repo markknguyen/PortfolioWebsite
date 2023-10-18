@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.e2388cad.css",
-    "main.js": "/PortfolioWebsite/static/js/main.2517e9c7.js",
+    "main.css": "/PortfolioWebsite/static/css/main.bbfe9a89.css",
+    "main.js": "/PortfolioWebsite/static/js/main.7cc0ffc9.js",
     "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
-    "static/media/loopchicago.mp4": "/PortfolioWebsite/static/media/loopchicago.e2e42d0d4d361b04bd99.mp4",
-    "static/media/snake.png": "/PortfolioWebsite/static/media/snake.194dcadaa5931c754fe2.png",
     "static/media/argonnelogo-2.png": "/PortfolioWebsite/static/media/argonnelogo-2.768add1314ea030f90d9.png",
     "static/media/newacm.png": "/PortfolioWebsite/static/media/newacm.b1be99bc4a38cfd3211e.png",
     "static/media/MemojiHeadshot.png": "/PortfolioWebsite/static/media/MemojiHeadshot.bc63c53cb481f8cd99ab.png",
@@ -14,13 +12,14 @@
     "static/media/nasalogo.png": "/PortfolioWebsite/static/media/nasalogo.47197ce1311697bac9a8.png",
     "static/media/SHPE Mark Nguyen Resume 2023 .pdf": "/PortfolioWebsite/static/media/SHPE Mark Nguyen Resume 2023 .1d4a95b83baa5f7a2990.pdf",
     "static/media/robot.png": "/PortfolioWebsite/static/media/robot.40b1c03d3fc82c9645e8.png",
+    "static/media/viet-2.png": "/PortfolioWebsite/static/media/viet-2.8f6226780670bd4960fb.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.e2388cad.css.map": "/PortfolioWebsite/static/css/main.e2388cad.css.map",
-    "main.2517e9c7.js.map": "/PortfolioWebsite/static/js/main.2517e9c7.js.map",
+    "main.bbfe9a89.css.map": "/PortfolioWebsite/static/css/main.bbfe9a89.css.map",
+    "main.7cc0ffc9.js.map": "/PortfolioWebsite/static/js/main.7cc0ffc9.js.map",
     "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2388cad.css",
-    "static/js/main.2517e9c7.js"
+    "static/css/main.bbfe9a89.css",
+    "static/js/main.7cc0ffc9.js"
   ]
 }
