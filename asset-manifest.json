@@ -1,26 +1,44 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.4d4ee465.css",
-    "main.js": "/PortfolioWebsite/static/js/main.5240c716.js",
-    "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/PortfolioWebsite/static/css/main.ef05db0c.css",
+    "main.js": "/PortfolioWebsite/static/js/main.e059bcbf.js",
+    "static/js/651.54ea2433.chunk.js": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js",
     "static/media/argonnelogo-2.png": "/PortfolioWebsite/static/media/argonnelogo-2.768add1314ea030f90d9.png",
     "static/media/newacm.png": "/PortfolioWebsite/static/media/newacm.b1be99bc4a38cfd3211e.png",
     "static/media/MemojiHeadshot.png": "/PortfolioWebsite/static/media/MemojiHeadshot.bc63c53cb481f8cd99ab.png",
     "static/media/1526robot.png": "/PortfolioWebsite/static/media/1526robot.8db72218c086e653f167.png",
+    "static/media/chair.png": "/PortfolioWebsite/static/media/chair.f5ab06ef9c4156a857a9.png",
+    "static/media/combinepdf-05.png": "/PortfolioWebsite/static/media/combinepdf-05.b34c8ce48cb9c9d1178a.png",
+    "static/media/combinepdf-04.png": "/PortfolioWebsite/static/media/combinepdf-04.402b03ca9b961acfdb65.png",
     "static/media/sweetdeals.png": "/PortfolioWebsite/static/media/sweetdeals.57c2a198d8083c88affe.png",
+    "static/media/combinepdf-01.png": "/PortfolioWebsite/static/media/combinepdf-01.e42502a9c061e0cecf5f.png",
+    "static/media/combinepdf-03.png": "/PortfolioWebsite/static/media/combinepdf-03.de47ef7bb8450439aa44.png",
+    "static/media/combinepdf-12.png": "/PortfolioWebsite/static/media/combinepdf-12.8370c81268bbf3952742.png",
+    "static/media/combinepdf-02.png": "/PortfolioWebsite/static/media/combinepdf-02.b440b8e7f63a9855aebe.png",
+    "static/media/combinepdf-13.png": "/PortfolioWebsite/static/media/combinepdf-13.20527c533938107ba892.png",
     "static/media/asciibean.png": "/PortfolioWebsite/static/media/asciibean.5340054b68dfe669d920.png",
+    "static/media/combinepdf-09.png": "/PortfolioWebsite/static/media/combinepdf-09.567e02022e5692bd8faf.png",
+    "static/media/combinepdf-10.png": "/PortfolioWebsite/static/media/combinepdf-10.90e3d59d90c4df769d42.png",
+    "static/media/combinepdf-07.png": "/PortfolioWebsite/static/media/combinepdf-07.42d3080551c393bdd05f.png",
+    "static/media/combinepdf-15.png": "/PortfolioWebsite/static/media/combinepdf-15.2cb79f1508f36bef631b.png",
+    "static/media/combinepdf-14.png": "/PortfolioWebsite/static/media/combinepdf-14.b87c2e22f45081f5f595.png",
+    "static/media/combinepdf-11.png": "/PortfolioWebsite/static/media/combinepdf-11.b0a85c033e540e3d28a9.png",
     "static/media/logo.png": "/PortfolioWebsite/static/media/logo.522dff73e716509c0af7.png",
+    "static/media/combinepdf-08.png": "/PortfolioWebsite/static/media/combinepdf-08.35bb34db838f464665ef.png",
+    "static/media/combinepdf-16.png": "/PortfolioWebsite/static/media/combinepdf-16.a9b924304c535a543d6f.png",
+    "static/media/combinepdf-06.png": "/PortfolioWebsite/static/media/combinepdf-06.a3cde0e1ea335b2cea38.png",
+    "static/media/combinepdf-17.png": "/PortfolioWebsite/static/media/combinepdf-17.b23e250985ff507d5ea3.png",
     "static/media/nasalogo.png": "/PortfolioWebsite/static/media/nasalogo.47197ce1311697bac9a8.png",
     "static/media/SHPE Mark Nguyen Resume 2023 .pdf": "/PortfolioWebsite/static/media/SHPE Mark Nguyen Resume 2023 .1d4a95b83baa5f7a2990.pdf",
-    "static/media/tank.png": "/PortfolioWebsite/static/media/tank.40b1c03d3fc82c9645e8.png",
+    "static/media/tank.png": "/PortfolioWebsite/static/media/tank.5964be25646eee46e9db.png",
     "static/media/viet-2.png": "/PortfolioWebsite/static/media/viet-2.8f6226780670bd4960fb.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.4d4ee465.css.map": "/PortfolioWebsite/static/css/main.4d4ee465.css.map",
-    "main.5240c716.js.map": "/PortfolioWebsite/static/js/main.5240c716.js.map",
-    "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
+    "main.ef05db0c.css.map": "/PortfolioWebsite/static/css/main.ef05db0c.css.map",
+    "main.e059bcbf.js.map": "/PortfolioWebsite/static/js/main.e059bcbf.js.map",
+    "651.54ea2433.chunk.js.map": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4ee465.css",
-    "static/js/main.5240c716.js"
+    "static/css/main.ef05db0c.css",
+    "static/js/main.e059bcbf.js"
   ]
 }
