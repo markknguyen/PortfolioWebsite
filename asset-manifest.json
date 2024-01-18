@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.ef05db0c.css",
-    "main.js": "/PortfolioWebsite/static/js/main.ccbb5752.js",
+    "main.css": "/PortfolioWebsite/static/css/main.70a180f1.css",
+    "main.js": "/PortfolioWebsite/static/js/main.ab2c5468.js",
     "static/js/651.54ea2433.chunk.js": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js",
     "static/media/argonnelogo-2.png": "/PortfolioWebsite/static/media/argonnelogo-2.768add1314ea030f90d9.png",
     "static/media/newacm.png": "/PortfolioWebsite/static/media/newacm.b1be99bc4a38cfd3211e.png",
     "static/media/MemojiHeadshot.png": "/PortfolioWebsite/static/media/MemojiHeadshot.bc63c53cb481f8cd99ab.png",
     "static/media/1526robot.png": "/PortfolioWebsite/static/media/1526robot.8db72218c086e653f167.png",
+    "static/media/cfd.png": "/PortfolioWebsite/static/media/cfd.15d953bfa97d18ac61ba.png",
     "static/media/chair.png": "/PortfolioWebsite/static/media/chair.f5ab06ef9c4156a857a9.png",
     "static/media/combinepdf-05.png": "/PortfolioWebsite/static/media/combinepdf-05.b34c8ce48cb9c9d1178a.png",
     "static/media/combinepdf-04.png": "/PortfolioWebsite/static/media/combinepdf-04.402b03ca9b961acfdb65.png",
@@ -33,12 +34,12 @@
     "static/media/tank.png": "/PortfolioWebsite/static/media/tank.5964be25646eee46e9db.png",
     "static/media/viet-2.png": "/PortfolioWebsite/static/media/viet-2.8f6226780670bd4960fb.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.ef05db0c.css.map": "/PortfolioWebsite/static/css/main.ef05db0c.css.map",
-    "main.ccbb5752.js.map": "/PortfolioWebsite/static/js/main.ccbb5752.js.map",
+    "main.70a180f1.css.map": "/PortfolioWebsite/static/css/main.70a180f1.css.map",
+    "main.ab2c5468.js.map": "/PortfolioWebsite/static/js/main.ab2c5468.js.map",
     "651.54ea2433.chunk.js.map": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef05db0c.css",
-    "static/js/main.ccbb5752.js"
+    "static/css/main.70a180f1.css",
+    "static/js/main.ab2c5468.js"
   ]
 }
