@@ -24,7 +24,7 @@ export default function AboutPage() {
                     <h4 className="text-center"> 
                             <span className="gradient-text">21</span>
                         </h4>
-                        <h4> <span className="white-text"> years old. </span> (Senior!).</h4>
+                        <h4> <span className="white-text"> years old. </span> <br/> (Senior!).</h4>
                     </div>
                 </div>
 
