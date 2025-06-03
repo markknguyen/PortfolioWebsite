@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.70a180f1.css",
-    "main.js": "/PortfolioWebsite/static/js/main.ab2c5468.js",
-    "static/js/651.54ea2433.chunk.js": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js",
+    "main.css": "/PortfolioWebsite/static/css/main.4edf53ed.css",
+    "main.js": "/PortfolioWebsite/static/js/main.23dbc7ff.js",
+    "static/js/453.68693753.chunk.js": "/PortfolioWebsite/static/js/453.68693753.chunk.js",
     "static/media/argonnelogo-2.png": "/PortfolioWebsite/static/media/argonnelogo-2.768add1314ea030f90d9.png",
     "static/media/newacm.png": "/PortfolioWebsite/static/media/newacm.b1be99bc4a38cfd3211e.png",
     "static/media/MemojiHeadshot.png": "/PortfolioWebsite/static/media/MemojiHeadshot.bc63c53cb481f8cd99ab.png",
@@ -34,12 +34,12 @@
     "static/media/tank.png": "/PortfolioWebsite/static/media/tank.5964be25646eee46e9db.png",
     "static/media/viet-2.png": "/PortfolioWebsite/static/media/viet-2.8f6226780670bd4960fb.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.70a180f1.css.map": "/PortfolioWebsite/static/css/main.70a180f1.css.map",
-    "main.ab2c5468.js.map": "/PortfolioWebsite/static/js/main.ab2c5468.js.map",
-    "651.54ea2433.chunk.js.map": "/PortfolioWebsite/static/js/651.54ea2433.chunk.js.map"
+    "main.4edf53ed.css.map": "/PortfolioWebsite/static/css/main.4edf53ed.css.map",
+    "main.23dbc7ff.js.map": "/PortfolioWebsite/static/js/main.23dbc7ff.js.map",
+    "453.68693753.chunk.js.map": "/PortfolioWebsite/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70a180f1.css",
-    "static/js/main.ab2c5468.js"
+    "static/css/main.4edf53ed.css",
+    "static/js/main.23dbc7ff.js"
   ]
 }
