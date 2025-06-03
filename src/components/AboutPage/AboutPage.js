@@ -22,9 +22,9 @@ export default function AboutPage() {
                     </div>
                     <div className="short-box">
                     <h4 className="text-center"> 
-                            <span className="gradient-text">19</span>
+                            <span className="gradient-text">21</span>
                         </h4>
-                        <h4> <span className="white-text"> years old. </span> (Sophomore!).</h4>
+                        <h4> <span className="white-text"> years old. </span> (Senior!).</h4>
                     </div>
                 </div>
 
