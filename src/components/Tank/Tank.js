@@ -14,7 +14,7 @@ export default function Tank() {
 <div>
 <Button 
             variant="dark" 
-            href="https://github.com/markknguyen/ASCIIBEAN" 
+            href="https://github.com/markknguyen/robot-wars" 
             target="_blank"
             style={{ fontSize: '2rem' }}  // Adjusting font size to fit container
         >

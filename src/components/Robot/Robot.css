@@ -1,0 +1,41 @@
+.robot {
+    margin: 0;
+    padding: 5rem;
+    text-align: left;
+    background-color: #161618;
+    color: white;
+    font-weight: normal;
+}
+
+.robot-container {
+    margin: 0;
+    padding: 3rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.robot-container > * {
+    margin: 1em;
+    width: 50%;
+}
+
+.github-icon {
+    transform: scale(1);
+    display: block;
+    margin: auto;
+}
+
+@media (max-width: 800px) {
+    .robot {
+        padding: 1rem;
+    }
+    .robot-container {
+        padding: 1rem 0rem;
+        flex-direction: column;
+    }
+    .robot-container > * {
+        margin: 1em 0em;
+        width: 100%;
+    }
+} 

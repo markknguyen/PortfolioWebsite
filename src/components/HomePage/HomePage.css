@@ -4,7 +4,7 @@ h1 {
     font-size: 3.5rem !important;
     font-weight: 700 !important; /* Bold */
     text-align: center;
-    color: white;
+    color: white !important;
     margin-bottom: 10px; /* Adjust as needed */
 }
 
@@ -29,13 +29,14 @@ h2 {
     font-size: 1.75rem !important;
     font-weight: 400 !important; /* Normal */
     text-align: center;
-    color: white;
+    color: white !important;
     margin-top: 10px; /* Adjust as needed */
 }
 
 .home h2 {
     padding-top: 0.5vh !important;
     padding-bottom: 2.5vh !important;
+    color: white !important;
 }
 
 .resume-link {

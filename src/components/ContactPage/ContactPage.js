@@ -109,7 +109,7 @@ export default function ContactPage() {
 
                     </div>
                     <footer style={{textAlign: "center"}}>
-                        <small>&copy; 2023 Mark Nguyen. All rights reserved.</small>
+                        <small>&copy; 2025 Mark Nguyen. All rights reserved.</small>
                     </footer>
                 </div>
             </div>

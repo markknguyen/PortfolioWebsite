@@ -1,13 +1,13 @@
-
-.mean {
+.chair {
     margin: 0;
     padding: 5rem;
     text-align: left;
     background-color: #161618;
-    color:white;
+    color: white;
+    font-weight: normal;
 }
 
-.mean-container {
+.chair-container {
     margin: 0;
     padding: 3rem 0rem;
     display: flex;
@@ -15,28 +15,27 @@
     flex-direction: row;
 }
 
-.mean-container > * {
+.chair-container > * {
     margin: 1em;
     width: 50%;
 }
 
-/* Add this new style */
 .github-icon {
-    transform: scale(1);  /* You can adjust the scaling factor (0.7) as needed */
-    display: block;  /* To ensure the icon takes the scaling correctly */
-    margin: auto;  /* Center the scaled-down icon in the button */
+    transform: scale(1);
+    display: block;
+    margin: auto;
 }
 
 @media (max-width: 800px) {
-    .mean {
+    .chair {
         padding: 1rem;
     }
-    .mean-container {
+    .chair-container {
         padding: 1rem 0rem;
         flex-direction: column;
     }
-    .mean-container > * {
+    .chair-container > * {
         margin: 1em 0em;
         width: 100%;
     }
-}
+} 

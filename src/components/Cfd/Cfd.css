@@ -1,0 +1,41 @@
+.cfd {
+    margin: 0;
+    padding: 5rem;
+    text-align: left;
+    background-color: #161618;
+    color: white;
+    font-weight: normal;
+}
+
+.cfd-container {
+    margin: 0;
+    padding: 3rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.cfd-container > * {
+    margin: 1em;
+    width: 50%;
+}
+
+.github-icon {
+    transform: scale(1);
+    display: block;
+    margin: auto;
+}
+
+@media (max-width: 800px) {
+    .cfd {
+        padding: 1rem;
+    }
+    .cfd-container {
+        padding: 1rem 0rem;
+        flex-direction: column;
+    }
+    .cfd-container > * {
+        margin: 1em 0em;
+        width: 100%;
+    }
+} 

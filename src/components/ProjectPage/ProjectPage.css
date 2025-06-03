@@ -6,6 +6,10 @@
     position: relative; /* Added for pseudo-element positioning */
 }
 
+.project h1 {
+    color: white !important;
+}
+
 .card.bg-dark {
     background-color: #000 !important;
 }

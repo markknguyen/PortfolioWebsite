@@ -6,6 +6,10 @@
     color: #86868C;
 }
 
+.about h1 {
+    color: white !important;
+}
+
 html, body {
     height: 90%;
     margin: 0;
