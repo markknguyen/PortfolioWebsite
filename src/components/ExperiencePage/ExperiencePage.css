@@ -64,9 +64,11 @@ body {
 }
 
 .experience-image {
-  max-width: 75px;
-  max-height: 75px;
+  max-width: 100px;
+  max-height: 100px;
+  width: auto;
   height: auto;
+  object-fit: contain;
   margin-right: 20px;  /* spacing between image and text */
 }
 
@@ -95,6 +97,11 @@ body {
   .experience-image {
       margin: 0 auto 20px auto; /* top and bottom margin 20px, and auto left and right for centering */
       display: block;  /* make the image a block element to allow for centering using margin auto */
+      max-width: 100px;
+      max-height: 100px;
+      width: auto;
+      height: auto;
+      object-fit: contain;
   }
 
   .info {
